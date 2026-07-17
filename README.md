@@ -1,7 +1,4 @@
 # AeroShield
-A lightweight cryptographic layer for securing processed data and metadata in UAV detection systems.
-
-# AeroShield
 
 **A Lightweight Cryptographic Layer for Securing Processed Data and Metadata in UAV Detection Systems**
 
