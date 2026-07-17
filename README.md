@@ -11,25 +11,27 @@ The solution combines artificial intelligence with modern cryptographic mechanis
 
 Note: This repository is intended to showcase the AeroShield project for academic and portfolio purposes. The implementation source code is not publicly available while the associated research is being prepared for publication.
 
-Project Objectives : 
-• Protect processed UAV detection data from tampering.
-• Secure metadata exchanged between system components.
-• Preserve data authenticity using digital signatures.
-• Prevent replay attacks through nonce verification.
-• Maintain lightweight cryptographic performance suitable for real-time environments.
+## Project Objectives
 
-Key Features : 
-• Secure metadata protection
-• Digital signature verification
-• Lightweight authenticated encryption
-• Replay attack prevention
-• Audit logging
-• AI-assisted UAV detection pipeline
-• Secure cloud verification
+- Protect processed UAV detection data from tampering.
+- Secure metadata exchanged between system components.
+- Preserve data authenticity using digital signatures.
+- Prevent replay attacks through nonce verification.
+- Maintain lightweight cryptographic performance suitable for real-time environments.
 
-Technologies : 
-Python, X25519, Ed25519, ChaCha20-Poly1305
-SHA-256, PyTorch, Librosa ,Docker, Flask
+## Key Features
+
+- Secure metadata protection
+- Digital signature verification
+- Lightweight authenticated encryption
+- Replay attack prevention
+- Audit logging
+- AI-assisted UAV detection pipeline
+- Secure cloud verification
+
+## Technologies
+
+`Python` `X25519` `Ed25519` `ChaCha20-Poly1305` `SHA-256` `PyTorch` `Librosa` `Docker` `Flask`
 
 System Architecture
 <img width="840" height="572" alt="image" src="https://github.com/user-attachments/assets/3a4c6bd5-396a-4a13-ae3e-3eaeccd0dc25" />
