@@ -40,11 +40,14 @@ System Architecture
 Workflow
 <img width="1015" height="493" alt="image" src="https://github.com/user-attachments/assets/dffed9c5-0c28-4d41-b2b0-dd66f8f3efba" />
 
-Results : 
-• Detection Accuracy: 97.44%
-• Attacks Successfully Blocked: 4/4
-• Encryption Overhead: < 2 ms/frame
-• Key Exchange Latency: < 5 ms
+## Results
+
+| Metric | Result |
+|--------|--------|
+| Detection Accuracy | **97.44%** |
+| Attacks Successfully Blocked | **4/4** |
+| Encryption Overhead | **< 2 ms/frame** |
+| Key Exchange Latency | **< 5 ms** |
 
 
 Poster
