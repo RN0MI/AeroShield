@@ -51,7 +51,8 @@ Workflow
 
 
 Poster
-<img width="2160" height="3312" alt="AeroShield - Poster" src="https://github.com/user-attachments/assets/8f88b28e-8501-463d-8430-fc79f5bc68d4" />
+
+<img width="1053" height="1493" alt="AeroShiled Poster" src="https://github.com/user-attachments/assets/8217a9a0-58cf-4651-b797-084d7c9b61db" />
 
 Authors : 
 - Raneem Alharbi
